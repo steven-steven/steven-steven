@@ -19,6 +19,12 @@ Welcome to my Github page.
 - 🌱 I’m currently learning to be a better writer, software developer, rock climber, runner, and human
 - 😄 Pronouns: He/Him
 
+<p align="center">
+  <a href="https://github.com/steven-steven/typeracer-readme-stats">
+    <img alt="Steven's Typeracer stats" align="center" src="https://typeracer-readme-stats.vercel.app/api?username=juninight29&hide=wpm&show_icons=true&theme=radical&border_color=FF5C39&custom_title=Steven's%20Typeracer%20Stats" />
+  </a>
+</p>
+
 <!--
 **steven-steven/steven-steven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
