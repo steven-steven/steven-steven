@@ -13,7 +13,7 @@
 
 Welcome to my Github page.
 
-- 🔭 I’m currently working on making e-commerce safer and more trustable at Shopify. Always trying to learn about new cool tech i my free time.
+- 🔭 I’m currently working on making e-commerce safer and more trustable at Shopify. Always trying to learn about new cool tech in my free time.
 - 📚 I am an avid reader. Feel free to drop in recommendations, whether it's fiction/non-fiction/technical.
 - 🇮🇩/🇨🇦 Born and raised in Indonesia. Studied and worked in Canada.
 - 🌱 I’m currently learning to be a better writer, software developer, rock climber, runner, and human
