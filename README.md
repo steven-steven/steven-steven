@@ -1,6 +1,4 @@
 <p align="center">
-  <img width="150" src="https://github.com/steven-steven/Blog/blob/master/static/images/avatar_hello.png" alt="Steven" align="center">
-  </br>
   </br>
   <a href="https://linkedin.com/in/steven-steven/"><img src="https://img.shields.io/badge/-steven-1f2041?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/steven-steven/" alt="Linkedin"></a>
   <a href="https://www.instagram.com/s.tev.e.n/"><img src="https://img.shields.io/badge/-st.e.ven-4B3F72?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/s.tev.e.n/" alt="Instagram"></a>
