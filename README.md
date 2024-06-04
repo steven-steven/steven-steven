@@ -4,7 +4,6 @@
   <a href="https://www.instagram.com/s.tev.e.n/"><img src="https://img.shields.io/badge/-st.e.ven-4B3F72?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/s.tev.e.n/" alt="Instagram"></a>
   <a href="https://stevenwhat.me/"><img src="https://img.shields.io/badge/-stevenwhat.me-FFC857?style=for-the-badge&amp;logo=GoogleChrome&amp;logoColor=black&amp;link=https://stevenwhat.me/" alt="Website"></a>
   <a href="https://open.spotify.com/user/stevensorryindo"><img src="https://img.shields.io/badge/-stevensorryindo-119DA4?style=for-the-badge&amp;logo=Spotify&amp;logoColor=white&amp;link=https://open.spotify.com/user/stevensorryindo" alt="Spotify"></a>
-  <a href="https://twitter.com/stevensteven_29"><img src="https://img.shields.io/badge/-stevensteven_29-19647E?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/stevensteven_29" alt="Twitter"></a>
 </p>
   
 ### Hi there 👋
